@@ -1,0 +1,3 @@
+[submodule "packages/front-end"]
+	path = packages/front-end
+	url = https://github.com/clarisetlw/client.git
